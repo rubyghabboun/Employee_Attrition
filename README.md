@@ -19,6 +19,7 @@ predict employee attrition based on multiple factors.
 4. Education level and average monthly income effect on attririon.
 5. Education level and monthly pay between genders and if it affects attrition rate between them.
 6. predict timeframe of leaving the company if they are predicted to leave based on factors such as years at company and years since last promotion or total years working.
+7. Age range where people start leaving and we need to start the hiring process.
 
 # Resources : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
