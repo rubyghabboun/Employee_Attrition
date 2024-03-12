@@ -1,6 +1,6 @@
 # Employee_Attrition Prediction at IBM
 ## Overview
-This project aims to predict the tenure of employees within an organization using machine learning. By analyzing various factors such as age, job role, job satisfaction, and several others, we've developed a model capable of forecasting how long employees are likely to stay. This initiative addresses the challenge of managing workforce stability and planning for future resource needs effectively.
+This project aims to predict the attrition and departure time frame of employees within an organization using machine learning. By analyzing various factors such as age, job role, job satisfaction, and several others, we've developed a model capable of forecasting how long employees are likely to stay. This initiative addresses the challenge of managing workforce stability and planning for future resource needs effectively.
 
 Collaborators:
 1. Ruby Ghabboun
