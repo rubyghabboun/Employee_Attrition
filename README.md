@@ -7,6 +7,19 @@ Collaborators:
 2. Aida Roman
 3. Renato Barbosa
 4. Caitlyn Myland
+
+## Content of this project repository :
+1. Each folder contain relevant code:
+. Resources : 1. employee dataset. 2. sample data set for algorithm application for new employees.
+
+. cleaningAndTestData : 1. jupyter notebooks for cleaning , pulling, creating sample dataset, and creating 
+dataset for visualization. 2. saved datasets outputs.
+
+. machine_learning_models : 1. saved model. 2. model creation code. 3. model application code. 3. previous and currrent improved scores screenshots.
+
+. tablaue viz : screenshots of tablaue visualizations of key features.
+
+-- additional files : new data predicted csv and word doc. of model overview.
    
 ## Features and Highlights
 * Data Model Implementation: Our Python script leverages PySpark to handle data processing, cleaning, normalization, and standardization efficiently, ensuring the model operates on high-quality data. This approach highlights our capability to manage and analyze big data, setting the groundwork for accurate predictive modeling.
