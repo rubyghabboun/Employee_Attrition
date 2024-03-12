@@ -9,7 +9,7 @@ Collaborators:
 4. Caitlyn Myland
 
 ## Content of this project repository :
-# Each folder contain relevant code:
+# Each folder contain relevant code or data:
 . Resources : 1. employee dataset. 2. sample data set for algorithm application for new employees.
 
 . cleaningAndTestData : 1. jupyter notebooks for cleaning , pulling, creating sample dataset, and creating 
