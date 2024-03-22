@@ -49,6 +49,8 @@ Contributions to this project are welcome. Please adhere to the following guidel
 * Fork the repository.
 * Create a new branch for each feature or improvement.
 * Submit a pull request with a clear description of the changes.
+
+  tableau dashboards : https://public.tableau.com/app/profile/ruby.ghabboun/viz/IBMHRemployeeattritionprediction/Story1
   
 ## Acknowledgements
 * We extend our gratitude to IBM for providing the comprehensive HR Analytics Employee Attrition & Performance dataset, which served as the foundation for our predictive modeling. The dataset is publicly available on [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset).
